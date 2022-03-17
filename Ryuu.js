@@ -1,6 +1,6 @@
 /*
  * Selamat di Gunakan🗿☕
- * instagram me? : @RyuukaBotz8
+ * instagram me? : @FANX4TOD
  * Jangan Lupa Kasih Creator nya om🗿☕
  * Note Dari Saya Jika Reupload Izin Ke Creator Dlu Atau Tidak Kasih Credit + Link Video nya... 
 */
@@ -334,9 +334,9 @@ only: {
 group: 'Fitur Hanya Bisa Di Gunakan Di Group',
 player: 'Khusus Orang Yang Join Rpg', 
 event: 'Event Belum Aktif Di Group ini!!',
-owner: 'Khusus Owner Ngab',
-admin: 'Khusus Admin Ngab',
-Badmin: 'Bot Harus Jadi Admin Kalo Mau Menggunakan Fiturnya', 
+owner: 'Khusus Owner Kontol',
+admin: 'Khusus Admin Kontol',
+Badmin: 'Bot Harus Jadi Admin yah kontol Kalo Mau Menggunakan Fiturnya', 
 }
 }
 const isUrl = (url) => {
